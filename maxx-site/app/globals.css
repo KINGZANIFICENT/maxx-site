@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Brand helpers */
+:root {
+  --brand-blue: #2f5a8b;
+  --brand-blue-dark: #1f3f63;
+  --brand-gold: #f4a300;
+}
+
+html, body { height: 100%; }
